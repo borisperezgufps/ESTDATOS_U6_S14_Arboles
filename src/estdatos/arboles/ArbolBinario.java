@@ -38,8 +38,8 @@ public class ArbolBinario {
 			System.out.println(padre.getValorNodo() 
 					+ " - Nivel: "+cont);
 			
-			imprimir(padre.getSubarbolIzdo());
-			imprimir(padre.getSubarbolDcho());
+//			imprimir(padre.getSubarbolIzdo());
+//			imprimir(padre.getSubarbolDcho());
 		}
 	}
 
